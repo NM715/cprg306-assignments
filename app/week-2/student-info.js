@@ -2,9 +2,9 @@ import Link from 'next/link';
 
 export default function StudentInfo() {
   return (
-    <div> 
+    <div className > 
       <p>Nawal M</p>
-      <Link href="https://github.com/NM715">Github Profile</Link>
+      <Link href="https://github.com/NM715">https://github.com</Link>
     </div>
   );
 }

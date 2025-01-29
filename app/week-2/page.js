@@ -2,7 +2,7 @@ import StudentInfo from "./student-info.js";
 
 export default function Page() {
   return (
-    <main>
+    <main className ="text-base">
       <h1>Shopping List</h1>
       <StudentInfo /> 
     </main>
